@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+fastapi-venv/
+venv/
+.venv/
+.env
+
+# Logs
+*.log
+logs/
+
+# Secrets
+.env
+config.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
